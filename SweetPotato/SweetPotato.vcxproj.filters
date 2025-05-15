@@ -18,6 +18,9 @@
     <ClCompile Include="src\SweetPotato\Application.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\SweetPotato\Log.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\SweetPotato\Application.h">
@@ -30,6 +33,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="src\SweetPotato\EntryPoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="src\SweetPotato\Log.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
