@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SandBox", "SandBox\SandBox.vcxproj", "{8DEB2B37-120F-456D-851F-F03C820B3806}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SweetPotato", "SweetPotato\SweetPotato.vcxproj", "{616D004C-3A2D-40CC-A834-E1806E999FD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{616D004C-3A2D-40CC-A834-E1806E999FD9}.Debug|x64.ActiveCfg = Debug|x64
+		{616D004C-3A2D-40CC-A834-E1806E999FD9}.Debug|x64.Build.0 = Debug|x64
+		{616D004C-3A2D-40CC-A834-E1806E999FD9}.Release|x64.ActiveCfg = Release|x64
+		{616D004C-3A2D-40CC-A834-E1806E999FD9}.Release|x64.Build.0 = Release|x64
+		{8DEB2B37-120F-456D-851F-F03C820B3806}.Debug|x64.ActiveCfg = Debug|x64
+		{8DEB2B37-120F-456D-851F-F03C820B3806}.Debug|x64.Build.0 = Debug|x64
+		{8DEB2B37-120F-456D-851F-F03C820B3806}.Release|x64.ActiveCfg = Release|x64
+		{8DEB2B37-120F-456D-851F-F03C820B3806}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5663EFF6-5C91-4A09-86B8-B404EDF352A5}
+	EndGlobalSection
+EndGlobal
